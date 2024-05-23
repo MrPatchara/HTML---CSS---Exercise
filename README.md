@@ -1,7 +1,8 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+Simple website for learning about HTML :fire:
+This Project made for certificate form Born to Dev :memo:
 
 
 ## Authors
@@ -11,13 +12,12 @@ A brief description of what this project does and who it's for
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to me at patcharaalumaree@gmail.com
 
 
-## Screenshots
+## Features
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+- หน้าหลักเว็บไซต์บทความน่ารู้
+- บทความที่ 1# OpenAI เปิดตัว GPT-4o ฉลาดและเร็วกว่าเดิม
+- บทความที่ 2# ChatGPT คืออะไร ? เผยข้อดีและกระบวนการทำงานของ ChatGPT 
+- ข้อมูลผู้จัดทําเว็บไซต์
